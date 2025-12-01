@@ -20,5 +20,11 @@ Focuses on retail performance across product categories, sales channels, and cus
 - Interactive slicers and drill‑through functionality  
 - Custom chart formatting and layout design  
 - Data preprocessing in Excel
+  
+## 1.Insurance Analysis
+![Alt text for image](https://github.com/kapoor-raghav/PowerBi_projects/blob/main/Insurance%20analysis/Insurance%20analysis.png)
+
+## 2.Store Analysis
+![Alt text for image](https://github.com/kapoor-raghav/PowerBi_projects/blob/main/store%20analysis/store%20analysis.png)
 
 
